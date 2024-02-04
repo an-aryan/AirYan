@@ -1,0 +1,6 @@
+@airyan_HostAddress = http://localhost:5190
+
+GET {{airyan_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
